@@ -24,7 +24,7 @@ import "@fontsource/roboto/700.css";
           your new weather bot.
         </p>
         <p
-          class="text-xs leading-normal font-normal text-gray-400 dark:text-white px-20 sm:px-10 mb-3"
+          class="text-xs leading-normal font-normal text-gray-400 dark:text-white md:px-20 sm:px-5 mb-3"
         >
           Please note that any extreme weather your experience after downloading
           me is not at all coincidental.
