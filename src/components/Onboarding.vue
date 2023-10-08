@@ -35,7 +35,7 @@ const termsOfContentClose = () => {
             viewBox="0 0 24 24"
             stroke-width="1.5"
             stroke="currentColor"
-            class="w-6 h-6"
+            class="w-6 h-6 dark:text-white"
           >
             <path
               stroke-linecap="round"
@@ -118,12 +118,7 @@ const termsOfContentClose = () => {
             &quot;Terms&quot;) mean these Terms and Conditions that form the
             entire agreement between You and the Company regarding the use of
             the Service. This Terms and Conditions agreement has been created
-            with the help of the
-            <a
-              href="https://www.termsfeed.com/terms-conditions-generator/"
-              target="_blank"
-              >Terms and Conditions Generator</a
-            >.
+            with the help of the Terms and Conditions Generator.
           </p>
         </li>
         <li>
@@ -340,7 +335,10 @@ const termsOfContentClose = () => {
       </p>
       <ul>
         <li>
-          By email: <a href="mailto:monzur707@gmail.com">monzur707@gmail.com</a>
+          By email:
+          <a href="mailto:monzur707@gmail.com" class="dark:text-white"
+            >monzur707@gmail.com</a
+          >
         </li>
       </ul>
     </div>
