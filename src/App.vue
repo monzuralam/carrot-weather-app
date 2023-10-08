@@ -1,7 +1,11 @@
-<script setup></script>
+<script setup>
+import Onboarding from "./components/Onboarding.vue";
+</script>
 
 <template>
-  <h1 class="text-3xl underline">Carrot Weather App</h1>
+  <div class="max-w-sm max-h-screen mx-auto">
+    <Onboarding />
+  </div>
 </template>
 
 <style scoped></style>
