@@ -52,15 +52,17 @@ const termsOfContentClose = () => {
         Please read these terms and conditions carefully before using Our
         Service.
       </p>
-      <h2 class="text-xl font-medium">Interpretation and Definitions</h2>
-      <h3 class="text-lg font-medium">Interpretation</h3>
+      <h2 class="text-xl font-medium dark:text-white">
+        Interpretation and Definitions
+      </h2>
+      <h3 class="text-lg font-medium dark:text-white">Interpretation</h3>
       <p class="text-sm font-light text-black dark:text-white mb-2">
         The words of which the initial letter is capitalized have meanings
         defined under the following conditions. The following definitions shall
         have the same meaning regardless of whether they appear in singular or
         in plural.
       </p>
-      <h3 class="text-lg font-medium">Definitions</h3>
+      <h3 class="text-lg font-medium dark:text-white">Definitions</h3>
       <p class="text-sm font-light text-black dark:text-white mb-2">
         For the purposes of these Terms and Conditions:
       </p>
@@ -137,7 +139,7 @@ const termsOfContentClose = () => {
           </p>
         </li>
       </ul>
-      <h2 class="text-xl font-medium">Acknowledgment</h2>
+      <h2 class="text-xl font-medium dark:text-white">Acknowledgment</h2>
       <p class="text-sm font-light text-black dark:text-white mb-2">
         These are the Terms and Conditions governing the use of this Service and
         the agreement that operates between You and the Company. These Terms and
@@ -168,7 +170,9 @@ const termsOfContentClose = () => {
         how the law protects You. Please read Our Privacy Policy carefully
         before using Our Service.
       </p>
-      <h2 class="text-xl font-medium">Links to Other Websites</h2>
+      <h2 class="text-xl font-medium dark:text-white">
+        Links to Other Websites
+      </h2>
       <p class="text-sm font-light text-black dark:text-white mb-2">
         Our Service may contain links to third-party web sites or services that
         are not owned or controlled by the Company.
@@ -195,7 +199,9 @@ const termsOfContentClose = () => {
       <p class="text-sm font-light text-black dark:text-white mb-2">
         Upon termination, Your right to use the Service will cease immediately.
       </p>
-      <h2 class="text-xl font-medium">Limitation of Liability</h2>
+      <h2 class="text-xl font-medium dark:text-white">
+        Limitation of Liability
+      </h2>
       <p class="text-sm font-light text-black dark:text-white mb-2">
         Notwithstanding any damages that You might incur, the entire liability
         of the Company and any of its suppliers under any provision of this
@@ -223,7 +229,7 @@ const termsOfContentClose = () => {
         each party's liability will be limited to the greatest extent permitted
         by law.
       </p>
-      <h2 class="text-xl font-medium">
+      <h2 class="text-xl font-medium dark:text-white">
         &quot;AS IS&quot; and &quot;AS AVAILABLE&quot; Disclaimer
       </h2>
       <p class="text-sm font-light text-black dark:text-white mb-2">
@@ -265,25 +271,29 @@ const termsOfContentClose = () => {
         section shall be applied to the greatest extent enforceable under
         applicable law.
       </p>
-      <h2 class="text-xl font-medium">Governing Law</h2>
+      <h2 class="text-xl font-medium dark:text-white">Governing Law</h2>
       <p class="text-sm font-light text-black dark:text-white mb-2">
         The laws of the Country, excluding its conflicts of law rules, shall
         govern this Terms and Your use of the Service. Your use of the
         Application may also be subject to other local, state, national, or
         international laws.
       </p>
-      <h2 class="text-xl font-medium">Disputes Resolution</h2>
+      <h2 class="text-xl font-medium dark:text-white">Disputes Resolution</h2>
       <p class="text-sm font-light text-black dark:text-white mb-2">
         If You have any concern or dispute about the Service, You agree to first
         try to resolve the dispute informally by contacting the Company.
       </p>
-      <h2 class="text-xl font-medium">For European Union (EU) Users</h2>
+      <h2 class="text-xl font-medium dark:text-white">
+        For European Union (EU) Users
+      </h2>
       <p class="text-sm font-light text-black dark:text-white mb-2">
         If You are a European Union consumer, you will benefit from any
         mandatory provisions of the law of the country in which you are resident
         in.
       </p>
-      <h2 class="text-xl font-medium">United States Legal Compliance</h2>
+      <h2 class="text-xl font-medium dark:text-white">
+        United States Legal Compliance
+      </h2>
       <p class="text-sm font-light text-black dark:text-white mb-2">
         You represent and warrant that (i) You are not located in a country that
         is subject to the United States government embargo, or that has been
@@ -291,8 +301,10 @@ const termsOfContentClose = () => {
         supporting&quot; country, and (ii) You are not listed on any United
         States government list of prohibited or restricted parties.
       </p>
-      <h2 class="text-xl font-medium">Severability and Waiver</h2>
-      <h3 class="text-lg font-medium">Severability</h3>
+      <h2 class="text-xl font-medium dark:text-white">
+        Severability and Waiver
+      </h2>
+      <h3 class="text-lg font-medium dark:text-white">Severability</h3>
       <p class="text-sm font-light text-black dark:text-white mb-2">
         If any provision of these Terms is held to be unenforceable or invalid,
         such provision will be changed and interpreted to accomplish the
@@ -300,7 +312,7 @@ const termsOfContentClose = () => {
         applicable law and the remaining provisions will continue in full force
         and effect.
       </p>
-      <h3 class="text-lg font-medium">Waiver</h3>
+      <h3 class="text-lg font-medium dark:text-white">Waiver</h3>
       <p class="text-sm font-light text-black dark:text-white mb-2">
         Except as provided herein, the failure to exercise a right or to require
         performance of an obligation under these Terms shall not effect a
@@ -308,13 +320,17 @@ const termsOfContentClose = () => {
         any time thereafter nor shall the waiver of a breach constitute a waiver
         of any subsequent breach.
       </p>
-      <h2 class="text-xl font-medium">Translation Interpretation</h2>
+      <h2 class="text-xl font-medium dark:text-white">
+        Translation Interpretation
+      </h2>
       <p class="text-sm font-light text-black dark:text-white mb-2">
         These Terms and Conditions may have been translated if We have made them
         available to You on our Service. You agree that the original English
         text shall prevail in the case of a dispute.
       </p>
-      <h2 class="text-xl font-medium">Changes to These Terms and Conditions</h2>
+      <h2 class="text-xl font-medium dark:text-white">
+        Changes to These Terms and Conditions
+      </h2>
       <p class="text-sm font-light text-black dark:text-white mb-2">
         We reserve the right, at Our sole discretion, to modify or replace these
         Terms at any time. If a revision is material We will make reasonable
@@ -328,12 +344,12 @@ const termsOfContentClose = () => {
         agree to the new terms, in whole or in part, please stop using the
         website and the Service.
       </p>
-      <h2 class="text-xl font-medium">Contact Us</h2>
+      <h2 class="text-xl font-medium dark:text-white">Contact Us</h2>
       <p class="text-sm font-light text-black dark:text-white mb-2">
         If you have any questions about these Terms and Conditions, You can
         contact us:
       </p>
-      <ul>
+      <ul class="text-white dark:text-black">
         <li>
           By email:
           <a href="mailto:monzur707@gmail.com" class="dark:text-white"
