@@ -9,22 +9,22 @@ import "@fontsource/roboto/700.css";
       <img
         src="../assets/favicon.png"
         alt="logo"
-        class="rounded-full w-20 mx-auto mb-6"
+        class="rounded-full w-20 mx-auto mb-9"
       />
-      <div class="text-center mb-10">
+      <div class="text-center mb-20">
         <p
-          class="text-base leading-normal font-medium text-black dark:text-white mb-5"
+          class="text-base leading-normal font-medium text-black dark:text-white mb-6"
         >
           Greetings, meatbag.
         </p>
         <p class="text-xl leading-none font-medium dark:text-white mb-0">
           I, <span class="text-2xl font-bold uppercase">Carrot</span>, am
         </p>
-        <p class="text-xl leading-none font-medium mb-5">
+        <p class="text-xl leading-none font-medium dark:text-white mb-6">
           your new weather bot.
         </p>
         <p
-          class="text-xs leading-normal font-normal text-gray-400 dark:text-white md:px-20 sm:px-10 mb-3"
+          class="text-xs leading-normal font-normal text-gray-400 dark:text-white px-20 sm:px-10 mb-3"
         >
           Please note that any extreme weather your experience after downloading
           me is not at all coincidental.
