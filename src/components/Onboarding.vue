@@ -17,14 +17,14 @@ import "@fontsource/roboto/700.css";
         >
           Greetings, meatbag.
         </p>
-        <p class="text-xl leading-none font-medium mb-0">
+        <p class="text-xl leading-none font-medium dark:text-white mb-0">
           I, <span class="text-2xl font-bold uppercase">Carrot</span>, am
         </p>
         <p class="text-xl leading-none font-medium mb-5">
           your new weather bot.
         </p>
         <p
-          class="text-xs leading-normal font-normal text-gray-400 dark:text-white px-20 mb-3"
+          class="text-xs leading-normal font-normal text-gray-400 dark:text-white md:px-20 sm:px-10 mb-3"
         >
           Please note that any extreme weather your experience after downloading
           me is not at all coincidental.
