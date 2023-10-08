@@ -3,7 +3,9 @@ import Onboarding from "./components/Onboarding.vue";
 </script>
 
 <template>
-  <div class="max-w-sm h-screen mx-auto overflow-y relative">
+  <div
+    class="max-w-sm h-screen mx-auto overflow-y relative bg-white dark:bg-black"
+  >
     <Onboarding />
   </div>
 </template>

@@ -4,7 +4,7 @@ import "@fontsource/roboto/700.css";
 </script>
 
 <template>
-  <section class="bg-white dark:bg-black py-20">
+  <section class="py-20">
     <div class="container">
       <img
         src="../assets/favicon.png"
@@ -24,21 +24,34 @@ import "@fontsource/roboto/700.css";
           your new weather bot.
         </p>
         <p
-          class="text-xs leading-normal font-normal text-gray-400 dark:text-white md:px-20 sm:px-5 mb-3"
+          class="text-xs leading-normal font-normal text-gray-400 dark:text-white"
         >
-          Please note that any extreme weather your experience after downloading
-          me is not at all coincidental.
+          Please note that any extreme weather
+        </p>
+        <p
+          class="text-xs leading-normal font-normal text-gray-400 dark:text-white"
+        >
+          your experience after downloading me is
+        </p>
+        <p
+          class="text-xs leading-normal font-normal text-gray-400 dark:text-white mb-3"
+        >
+          not at all coincidental.
         </p>
       </div>
       <!-- button, terms & conditions start here -->
       <div class="mx-auto text-center">
-        <button class="bg-blue-500 text-white rounded-full px-12 py-3 mb-5">
+        <button class="bg-blue-500 text-white rounded-full px-14 py-3 mb-5">
           Countinue
         </button>
         <p
-          class="text-xs leading-normal font-normal text-black dark:text-white px-20 mb-3"
+          class="text-xs leading-normal font-normal text-black dark:text-white mb-0"
         >
           By tapping Continue, you agree to the
+        </p>
+        <p
+          class="text-xs leading-normal font-normal text-black dark:text-white mb-3"
+        >
           <a href="" class="text-blue-500 underline">Terms of Use</a> and
           <a href="" class="text-blue-500 underline">Privacy Policy</a>.
         </p>
